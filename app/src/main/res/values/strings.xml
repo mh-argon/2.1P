@@ -1,0 +1,22 @@
+<resources>
+    <!-- the starting string name was Task 2.1P. changed to Unit Converter -->
+    <string name="app_name">Unit Converter</string>
+
+    <!-- the strings used for texts -->
+    <string name = "centimetre">centimetre</string>
+    <string name = "foot">foot</string>
+    <string name = "inch">inch</string>
+    <string name = "gram">gram</string>
+    <string name = "ounce">ounce</string>
+    <string name = "pound">pound</string>
+    <string name = "fahrenheit">fahrenheit</string>
+    <string name = "kelvin">kelvin</string>
+    <string name = "empty"></string>
+
+    <!-- string array used for the spinner -->
+    <string-array name="units">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
